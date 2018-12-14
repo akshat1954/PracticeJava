@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="ZigZacArray" type="CLASS" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="StrindToXml" type="CLASS" />
-      <mapping pattern="Abstract" type="CLASS" />
+      <mapping pattern="ZigZacArray" type="CLASS" />
       <mapping pattern="StringToXML" type="CLASS" />
-      <mapping pattern="AkshatAbstract" type="CLASS" />
       <mapping pattern="Main" type="CLASS" />
+      <mapping pattern="Abstract" type="CLASS" />
+      <mapping pattern="AkshatAbstract" type="CLASS" />
       <mapping pattern="AkshatAbstract1" type="JAVA" />
       <mapping pattern="2" type="JavaFX" />
       <mapping pattern="1" type="JavaFX" />
